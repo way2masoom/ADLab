@@ -8,7 +8,7 @@ data = {
     'Salary': [50000, 60000, np.nan, 70000, 65000],
     'Country': ['USA', 'Canada', 'USA', 'Canada', np.nan],
     'Gender': ['Male', 'Female', 'Female', 'Male', 'Female']
-}
+},
 
 df = pd.DataFrame(data)
 print("Original DataFrame:")
