@@ -1,10 +1,13 @@
 '''
 Experiment:
- Implement a random forest classifier to predict customer churn in a telecom dataset.
+Implement a random forest classifier to predict customer churn in a telecom dataset.
 Accuracy:  Find overall prediction accuracy.
 Confusion Matrix: Breakdown of true/false positives and negatives.
-Classification Report: Includes precision, recall, and F1-score for both churned and retained classes.
-Note: You can use a real-world dataset such as the Telco Customer Churn Dataset available on Kaggle or create a similar dataset for practice.
+Classification Report: Includes precision, recall, and F1-score for 
+both churned and retained classes.
+
+Note: You can use a real-world dataset such as the Telco Customer Churn 
+Dataset available on Kaggle or create a similar dataset for practice.
 '''
 
 
