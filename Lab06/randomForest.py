@@ -18,7 +18,7 @@ from sklearn.preprocessing import LabelEncoder, StandardScaler
 
 # Load the dataset
 # Replace 'telecom_churn.csv' with the path to your dataset
-data = pd.read_csv('/Users/irfan/Desktop/ADLab/Lab06/telecom_churn.csv')
+data = pd.read_csv('Lab06/telecom_churn.csv')
 
 # Data preprocessing
 # Identify categorical and numerical columns
