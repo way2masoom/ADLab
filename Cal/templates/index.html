@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Simple Addition App</title>
+</head>
+<body>
+    <h2>Retrieve Addition Result</h2>
+    <form method="POST">
+        <button type="submit">Get Result from add.pkl</button>
+    </form>
+    
+    {% if result is not none %}
+        <h3>Result: {{ result }}</h3>
+    {% endif %}
+</body>
+</html>
